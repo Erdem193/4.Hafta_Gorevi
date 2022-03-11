@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
  int sayi;
+ cout<<"Lutfen Bir Sayi Giriniz";
  cin >> sayi;
  if(sayi>10)
  {
